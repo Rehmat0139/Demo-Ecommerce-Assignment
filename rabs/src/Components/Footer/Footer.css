@@ -1,0 +1,25 @@
+
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #9C555D;
+    padding: 20px;
+    color: white;
+  }
+  
+
+  .footer-content {
+    margin-bottom: 20px;
+    flex-basis: 45%;
+  }
+
+  .footer-bottom {
+    border-top: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
